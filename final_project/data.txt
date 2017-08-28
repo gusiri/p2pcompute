@@ -1,0 +1,31 @@
+Welcome to the Geth JavaScript console!
+
+instance: Geth/miner/v1.6.7-stable-ab5646c5/linux-amd64/go1.8.1
+coinbase: 0x627075ba9b60312f1f1448ba2427631a903271c6
+at block: 10 (Tue, 15 Aug 2017 14:45:28 MDT)
+ datadir: /users/sukh4309/final_project/miner
+ modules: admin:1.0 debug:1.0 eth:1.0 miner:1.0 net:1.0 personal:1.0 rpc:1.0 txpool:1.0 web3:1.0
+
+> 
+{
+  enode: "enode://ab39a916423d7521d3a737efc4eabe57b25e4b7e90951779ab576fed5943faa340ea294e09f100b025f9c802329d183696d176b66c6dae1941f30a12e7d2ecef@[::]:30303",
+  id: "ab39a916423d7521d3a737efc4eabe57b25e4b7e90951779ab576fed5943faa340ea294e09f100b025f9c802329d183696d176b66c6dae1941f30a12e7d2ecef",
+  ip: "::",
+  listenAddr: "[::]:30303",
+  name: "Geth/miner/v1.6.7-stable-ab5646c5/linux-amd64/go1.8.1",
+  ports: {
+    discovery: 30303,
+    listener: 30303
+  },
+  protocols: {
+    eth: {
+      difficulty: 1314624,
+      genesis: "0x2720038ef46044a7a895296b85745294340ecfcedc32f8c9e9802129aeb62890",
+      head: "0xf71235a158b0912fbd4d25c9ff63a6032efd7ee4f343db5467ee6ea50e8c804b",
+      network: 1999
+    }
+  }
+}
+> 
+"0x71f967eea879131aa524ab9b4978fef9d2d503aa"
+> 
